@@ -1,0 +1,7 @@
+Hello! I am Emon.
+I am a student.
+I am a student of University Of Chittagong.
+I study in CSE.
+I want to be a Machine Learning expert.
+
+
